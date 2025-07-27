@@ -1,6 +1,6 @@
 {
-    "bot_prefix": ".",
-    "channelId": 1382993965879525400,
-    "pingRoleId": 1383002714522255400,
-    "bot_token": "MTM4NjcyNTM2OTcwODU0NDAzMA.G8zBfB.4EhaFpP4HK8cFEbJAsP_2KvQYacYyftM6owk1E"
+    "bot_prefix": "!",
+    "channelId": CHANNEL ID,
+    "pingRoleId": PING ROLE ID,
+    "bot_token": "BOT TOKEN"
 }
